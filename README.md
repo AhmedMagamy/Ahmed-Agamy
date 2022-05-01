@@ -2,11 +2,11 @@
 
 ## Task 1
 Detailed test plan for LinkedIn 
-> Check [TestPlan.pdf](/Task1&2/Test Plan for LinkedIn.pdf) 
+> Check [TestPlan](/Task1&2/Test Plan for LinkedIn.pdf) 
 
 ## Task 2
 Reported bigs for LinkedIn mobile APP
-> Check [LinkedInBugs.pdf](/Task1&2/TestCaes and Bugs of LinkedIn.xlsx) 
+> Check [LinkedInBugs](/Task1&2/TestCaes and Bugs of LinkedIn.xlsx) 
 
 ## Task 3
 Automated Tests for Facebook login and Registration
@@ -27,14 +27,6 @@ Automated Tests for Facebook login and Registration
 * Utilities: The utility package includes utility classes and many wrapper methods.
 
 #### Setup
-* Make sure you run the Best buy project locally 
-```bash
-git clone https://github.com/bestbuy/api-playground/
-cd api-playground
-npm install
-npm start
-# Best Buy API Playground started at http://localhost:3030
-```
 * Import or clone the maven project on any java IDE (Eclipse or IntelliJ for example)
 
 #### Execution
@@ -44,7 +36,7 @@ npm start
 ![Alt Text](/Task3&4/uiAuto.gif)
 
 ## Task 4
-Automated Tests for Facebook login and Registration
+Automated Tests for BestBuy APIs
 
 ### The main Frameworks and tools included in the project:
 * RestAssured
