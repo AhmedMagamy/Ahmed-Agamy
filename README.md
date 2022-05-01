@@ -2,11 +2,11 @@
 
 ## Task 1
 Detailed test plan for LinkedIn 
-Check [TestPlan](/Task1&2/Test Plan for LinkedIn.pdf) 
+> Check [TestPlan](https://github.com/AhmedMagamy/Ahmed-Agamy/blob/master/Task1%262/Test%20Plan%20for%20LinkedIn.pdf) 
 
 ## Task 2
 Reported bigs for LinkedIn mobile APP
-Check [LinkedInBugs](/Task1&2/TestCaes and Bugs of LinkedIn.xlsx) 
+> Check [LinkedInBugs](https://github.com/AhmedMagamy/Ahmed-Agamy/blob/master/Task1%262/TestCaes%20and%20Bugs%20of%20LinkedIn.xlsx) 
 
 ## Task 3
 Automated Tests for Facebook login and Registration
