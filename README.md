@@ -91,6 +91,9 @@ Automated Tests for BestBuy APIs
 * Check the version
 * check the healthcheck
 
+> Check [Recorded video for Automations tasks execution](https://drive.google.com/file/d/1bWXL6ylwTRUE8JapR1-PlPryFbOU3109/view?usp=sharing) 
+
+
 
 
 
