@@ -6,7 +6,7 @@ Detailed test plan for LinkedIn
 
 ## Task 2
 Reported bigs for LinkedIn mobile APP
-> Check [LinkedInBugs](https://github.com/AhmedMagamy/Ahmed-Agamy/blob/master/Task1%262/TestCaes%20and%20Bugs%20of%20LinkedIn.xlsx) 
+> Check [LinkedIn TCs and Bugs](https://github.com/AhmedMagamy/Ahmed-Agamy/blob/master/Task1%262/TestCaes%20and%20Bugs%20of%20LinkedIn.xlsx) 
 
 ## Task 3
 Automated Tests for Facebook login and Registration
