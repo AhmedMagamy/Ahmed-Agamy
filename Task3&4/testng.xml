@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="E:/study/InstaBugAutoTask">
+        <classes>
+            <class name="endPointsTests.CategoriesTests">
+                <methods>
+                    <include name="getListOfCategories"/>
+                    <include name="geCategoriesById"/>
+                    <include name="createCategoriesThenDeleteCategoryById"/>
+                    <include name="createNewCategory"/>
+                    <include name="updateCreatedCategory"/>
+                </methods>
+            </class>
+            <class name="endPointsTests.ProductsTests">
+                <methods>
+                    <include name="getListOfProducts"/>
+                    <include name="getProductById"/>
+                    <include name="createProductThenDeleteProductById"/>
+                    <include name="createNewProduct"/>
+                    <include name="updateCreatedProduct"/>
+                </methods>
+            </class>
+            <class name="endPointsTests.ServicesTests">
+                <methods>
+                    <include name="getListOfServices"/>
+                    <include name="geServiceById"/>
+                    <include name="createServiceThenDeleteServiceById"/>
+                    <include name="createNewService"/>
+                    <include name="updateCreatedService"/>
+                </methods>
+            </class>
+            <class name="endPointsTests.StoresTests">
+                <methods>
+                    <include name="getListOfStores"/>
+                    <include name="geStoreById"/>
+                    <include name="createStoreThenDeleteStoreById"/>
+                    <include name="createNewStore"/>
+                    <include name="updateCreatedStore"/>
+                </methods>
+            </class>
+            <class name="endPointsTests.UtilitiesTests">
+                <methods>
+                    <include name="getVersion"/>
+                    <include name="getHealthCheck"/>
+                </methods>
+            </class>
+            <class name="UiTests.LoginTests">
+                <methods>
+                    <include name="loginWithValidData"/>
+                    <include name="loginWithInvalidData"/>
+                </methods>
+            </class>
+            <class name="UiTests.RegistrationTests">
+                <methods>
+                    <include name="registerWithInvalidEmail"/>
+                    <include name="registerWithEmptyEmail"/>
+                    <include name="emailsDosntMtach"/>
+                    <include name="registerWithValidData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

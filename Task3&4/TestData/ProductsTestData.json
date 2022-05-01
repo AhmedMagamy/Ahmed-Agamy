@@ -1,0 +1,36 @@
+{
+  "CreateProductTC": {
+    "name": "Iphone50",
+    "type": "mobile",
+    "price": 1005020,
+    "shipping": 500,
+    "upc": "Unknown",
+    "description": "Unknown",
+    "manufacturer": "Apple",
+    "model": "50",
+    "url": "www.apple.com",
+    "image": "Unknown"
+  },
+    "UpdateProductTC": {
+	"id": "9999687",
+    "name": "Iphone50Updated",
+    "type": "mobileUpdated",
+    "price": 1005020,
+    "shipping": 500,
+    "upc": "Unknown",
+    "description": "Unknown",
+    "manufacturer": "Apple",
+    "model": "50",
+    "url": "www.apple.com",
+    "image": "Unknown"
+  }
+  ,
+    "GetProductTC": {
+	"id": "9999687"
+  }
+   ,
+    "DeleteProductTC": {
+	"id": "9999687"
+  }
+  
+}

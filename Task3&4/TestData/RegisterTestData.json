@@ -1,0 +1,44 @@
+{
+	"ValidRegisterTC": {
+		"email": "zjsjdsj@test.com",
+		"firstname": "ahmed",
+		"lastname": "agamy",
+		"birthday": "4",
+		"birthmonth": "May",
+		"birthyear": "1980",
+		"gender": "male",
+		"password": "ana12345678"
+	},
+		"InvalidEmailRegisterTC": {
+		"email": "zjsjdssd",
+		"firstname": "ahmed",
+		"lastname": "agamy",
+		"birthday": "4",
+		"birthmonth": "May",
+		"birthyear": "1980",
+		"gender": "male",
+		"password": "ana12345678"
+	},
+		"EmptyEmailRegisterTC": {
+		"email": "",
+		"firstname": "ahmed",
+		"lastname": "agamy",
+		"birthday": "4",
+		"birthmonth": "May",
+		"birthyear": "1980",
+		"gender": "male",
+		"password": "ana12345678"
+	},
+		"EmailsDoesntMatchRegisterTC": {
+		"email": "test@newtest.com",
+		"emailconf": "test74776@newtest.com",
+		"firstname": "ahmed",
+		"lastname": "agamy",
+		"birthday": "4",
+		"birthmonth": "May",
+		"birthyear": "1980",
+		"gender": "male",
+		"password": "ana12345678"
+	}
+	
+}

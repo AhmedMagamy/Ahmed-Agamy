@@ -1,0 +1,15 @@
+{
+	"CreateServiceTC": {
+		"name": "New test service"
+	},
+	"UpdateServiceTC": {
+		"id": "23",
+		"name": "new updated service"
+	},
+	"GetServiceTC": {
+		"id": "25"
+	},
+	"DeleteServiceTC": {
+		"id": "24"
+	}
+}

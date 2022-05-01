@@ -1,0 +1,18 @@
+{
+	"ValidEmailAndPasswordTC": {
+		"email": "odfsbhyoro_1651027676@tfbnw.net",
+		"password": "ana12345678"
+	},
+	"InvalidEmailAndPasswordTC": {
+		"email": "worngemail@test.com",
+		"password": "wrngpass"
+	},
+	"EmptyEmailTC": {
+		"name": "",
+		"password": "wrngpass"
+	},
+	"EmptyPasswordTC": {
+		"name": "worngemail@test.com",
+		"password": ""
+	}
+}

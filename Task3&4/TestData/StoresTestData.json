@@ -1,0 +1,33 @@
+{
+	"CreateStoreTC": {
+		"name": "Giza Store",
+		"type": "Public",
+		"address": "Giza Egy",
+		"address2": "Giza Egy",
+		"city": "Giza",
+		"state": "Giza",
+		"zip": "25233",
+		"lat": 0,
+		"lng": 0,
+		"hours": "string",
+	},
+	"UpdateStoreTC": {
+		"id": "8925",
+		"name": "Giza StoreUpdated",
+		"type": "Public",
+		"address": "Giza Egy",
+		"address2": "Giza Egy",
+		"city": "Giza",
+		"state": "Giza",
+		"zip": "25233",
+		"lat": 0,
+		"lng": 0,
+		"hours": "string",
+	},
+	"GetStoreTC": {
+		"id": "8932"
+	},
+	"DeleteStoreTC": {
+		"id": "8921"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"CreateCategoryTC": {
+		"name": "test category",
+		"id": "zznn5480"
+	},
+	"UpdateCategoryTC": {
+		"name": "test category updated",
+		"id": "abcat0102005"
+	},
+	"GetCategoryTC": {
+		"id": "abcat0102003"
+	},
+	"DeleteCategoryTC": {
+		"id": "24"
+	}
+}
